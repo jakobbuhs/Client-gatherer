@@ -1,0 +1,140 @@
+2025-01-31 23:19:15,866 - ERROR - Error in Google API search: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=site%3A.no+inurl%3Aproducts+powered+by+shopify&cx=651f323b688364454&start=1&key=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&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-01-31 23:19:15,912 - ERROR - Error in Google API search: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=site%3A.no+inurl%3Acollections+shopify&cx=651f323b688364454&start=1&key=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&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-01-31 23:19:15,958 - ERROR - Error in Google API search: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=site%3A.no+%22Powered+by+Shopify%22&cx=651f323b688364454&start=1&key=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&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-01-31 23:19:16,000 - ERROR - Error in Google API search: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=site%3A.no+cdn.shopify.com&cx=651f323b688364454&start=1&key=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&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-01-31 23:19:16,000 - WARNING - No stores found to export
+2025-01-31 23:19:16,001 - INFO - Generated report with 0 stores
+2025-01-31 23:21:25,147 - INFO - Searching with query: site:.no "Powered by Shopify", start_index: 1
+2025-01-31 23:21:25,271 - ERROR - Error in Google API search: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=site%3A.no+%22Powered+by+Shopify%22&cx=651f323b688364454&start=1&key=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&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-01-31 23:21:25,271 - INFO - Searching with query: site:.no inurl:products shopify.com, start_index: 1
+2025-01-31 23:21:25,319 - ERROR - Error in Google API search: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=site%3A.no+inurl%3Aproducts+shopify.com&cx=651f323b688364454&start=1&key=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&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-01-31 23:21:25,319 - INFO - Searching with query: site:.no inurl:collections cdn.shopify.com, start_index: 1
+2025-01-31 23:21:25,362 - ERROR - Error in Google API search: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=site%3A.no+inurl%3Acollections+cdn.shopify.com&cx=651f323b688364454&start=1&key=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&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-01-31 23:21:25,363 - INFO - Searching with query: site:.no "Shopify online store", start_index: 1
+2025-01-31 23:21:25,400 - ERROR - Error in Google API search: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=site%3A.no+%22Shopify+online+store%22&cx=651f323b688364454&start=1&key=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&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-01-31 23:21:25,400 - INFO - Searching with query: site:.no nettbutikk shopify, start_index: 1
+2025-01-31 23:21:25,441 - ERROR - Error in Google API search: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=site%3A.no+nettbutikk+shopify&cx=651f323b688364454&start=1&key=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&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-01-31 23:21:25,442 - INFO - Searching with query: site:.no vipps shopify, start_index: 1
+2025-01-31 23:21:25,484 - ERROR - Error in Google API search: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=site%3A.no+vipps+shopify&cx=651f323b688364454&start=1&key=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&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-01-31 23:21:25,484 - INFO - Searching with query: site:.no klarna shopify, start_index: 1
+2025-01-31 23:21:25,528 - ERROR - Error in Google API search: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=site%3A.no+klarna+shopify&cx=651f323b688364454&start=1&key=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&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-01-31 23:21:25,528 - WARNING - No stores found to export
+2025-01-31 23:21:25,529 - INFO - Generated report with 0 stores
+2025-01-31 23:24:31,725 - INFO - Searching with query: site:.no "Powered by Shopify", start_index: 1
+2025-01-31 23:24:32,383 - INFO - Found 10 new URLs from current page
+2025-01-31 23:24:33,387 - INFO - Searching with query: site:.no "Powered by Shopify", start_index: 11
+2025-01-31 23:24:33,762 - INFO - Found 10 new URLs from current page
+2025-01-31 23:24:34,767 - INFO - Searching with query: site:.no "Powered by Shopify", start_index: 21
+2025-01-31 23:24:35,134 - INFO - Found 10 new URLs from current page
+2025-01-31 23:24:36,136 - INFO - Searching with query: site:.no "Powered by Shopify", start_index: 31
+2025-01-31 23:24:36,365 - INFO - Found 8 new URLs from current page
+2025-01-31 23:24:36,366 - INFO - Searching with query: site:.no inurl:products shopify.com, start_index: 1
+2025-01-31 23:24:36,812 - INFO - Found 10 new URLs from current page
+2025-01-31 23:24:37,813 - INFO - Searching with query: site:.no inurl:products shopify.com, start_index: 11
+2025-01-31 23:24:38,321 - INFO - Found 10 new URLs from current page
+2025-01-31 23:24:39,322 - INFO - Searching with query: site:.no inurl:products shopify.com, start_index: 21
+2025-01-31 23:24:39,508 - INFO - Found 10 new URLs from current page
+2025-01-31 23:24:40,511 - INFO - Searching with query: site:.no inurl:products shopify.com, start_index: 31
+2025-01-31 23:24:40,898 - INFO - Found 7 new URLs from current page
+2025-01-31 23:24:40,899 - INFO - Searching with query: site:.no inurl:collections cdn.shopify.com, start_index: 1
+2025-01-31 23:24:41,378 - INFO - Found 9 new URLs from current page
+2025-01-31 23:24:42,379 - INFO - Searching with query: site:.no inurl:collections cdn.shopify.com, start_index: 11
+2025-01-31 23:24:42,621 - INFO - Found 10 new URLs from current page
+2025-01-31 23:24:43,624 - INFO - Searching with query: site:.no inurl:collections cdn.shopify.com, start_index: 21
+2025-01-31 23:24:44,054 - INFO - Found 7 new URLs from current page
+2025-01-31 23:24:44,054 - INFO - Searching with query: site:.no "Shopify online store", start_index: 1
+2025-01-31 23:24:44,411 - INFO - Found 8 new URLs from current page
+2025-01-31 23:24:44,411 - INFO - Searching with query: site:.no nettbutikk shopify, start_index: 1
+2025-01-31 23:24:44,670 - INFO - Found 9 new URLs from current page
+2025-01-31 23:24:45,675 - INFO - Searching with query: site:.no nettbutikk shopify, start_index: 11
+2025-01-31 23:24:45,861 - INFO - Found 10 new URLs from current page
+2025-01-31 23:24:46,867 - INFO - Searching with query: site:.no nettbutikk shopify, start_index: 21
+2025-01-31 23:24:47,334 - INFO - Found 10 new URLs from current page
+2025-01-31 23:24:48,339 - INFO - Searching with query: site:.no nettbutikk shopify, start_index: 31
+2025-01-31 23:24:48,714 - INFO - Found 10 new URLs from current page
+2025-01-31 23:24:49,720 - INFO - Searching with query: site:.no nettbutikk shopify, start_index: 41
+2025-01-31 23:24:50,134 - INFO - Found 10 new URLs from current page
+2025-01-31 23:24:51,136 - INFO - Searching with query: site:.no nettbutikk shopify, start_index: 51
+2025-01-31 23:24:51,346 - INFO - Found 10 new URLs from current page
+2025-01-31 23:24:52,351 - INFO - Searching with query: site:.no nettbutikk shopify, start_index: 61
+2025-01-31 23:24:52,863 - INFO - Found 10 new URLs from current page
+2025-01-31 23:24:53,865 - INFO - Searching with query: site:.no nettbutikk shopify, start_index: 71
+2025-01-31 23:24:54,195 - INFO - Found 10 new URLs from current page
+2025-01-31 23:24:55,200 - INFO - Searching with query: site:.no nettbutikk shopify, start_index: 81
+2025-01-31 23:24:55,460 - INFO - Found 9 new URLs from current page
+2025-01-31 23:24:56,462 - INFO - Searching with query: site:.no nettbutikk shopify, start_index: 91
+2025-01-31 23:24:56,754 - INFO - Found 10 new URLs from current page
+2025-01-31 23:24:57,760 - INFO - Searching with query: site:.no vipps shopify, start_index: 1
+2025-01-31 23:24:58,289 - INFO - Found 8 new URLs from current page
+2025-01-31 23:24:59,295 - INFO - Searching with query: site:.no vipps shopify, start_index: 11
+2025-01-31 23:24:59,472 - INFO - Found 9 new URLs from current page
+2025-01-31 23:25:00,478 - INFO - Searching with query: site:.no vipps shopify, start_index: 21
+2025-01-31 23:25:00,688 - INFO - Found 8 new URLs from current page
+2025-01-31 23:25:01,693 - INFO - Searching with query: site:.no vipps shopify, start_index: 31
+2025-01-31 23:25:01,900 - INFO - Found 5 new URLs from current page
+2025-01-31 23:25:02,905 - INFO - Searching with query: site:.no vipps shopify, start_index: 41
+2025-01-31 23:25:03,205 - INFO - Found 8 new URLs from current page
+2025-01-31 23:25:04,208 - INFO - Searching with query: site:.no vipps shopify, start_index: 51
+2025-01-31 23:25:04,406 - INFO - Found 9 new URLs from current page
+2025-01-31 23:25:05,407 - INFO - Searching with query: site:.no vipps shopify, start_index: 61
+2025-01-31 23:25:05,665 - INFO - Found 10 new URLs from current page
+2025-01-31 23:25:06,668 - INFO - Searching with query: site:.no vipps shopify, start_index: 71
+2025-01-31 23:25:06,901 - INFO - Found 5 new URLs from current page
+2025-01-31 23:25:06,902 - INFO - Searching with query: site:.no klarna shopify, start_index: 1
+2025-01-31 23:25:07,199 - INFO - Found 5 new URLs from current page
+2025-01-31 23:25:08,200 - INFO - Searching with query: site:.no klarna shopify, start_index: 11
+2025-01-31 23:25:08,420 - INFO - Found 5 new URLs from current page
+2025-01-31 23:25:09,425 - INFO - Searching with query: site:.no klarna shopify, start_index: 21
+2025-01-31 23:25:09,862 - INFO - Found 4 new URLs from current page
+2025-01-31 23:25:10,868 - INFO - Searching with query: site:.no klarna shopify, start_index: 31
+2025-01-31 23:25:11,296 - INFO - Found 4 new URLs from current page
+2025-01-31 23:25:12,299 - INFO - Searching with query: site:.no klarna shopify, start_index: 41
+2025-01-31 23:25:12,518 - INFO - Found 6 new URLs from current page
+2025-01-31 23:25:13,524 - INFO - Searching with query: site:.no klarna shopify, start_index: 51
+2025-01-31 23:25:13,908 - INFO - Found 7 new URLs from current page
+2025-01-31 23:25:14,912 - INFO - Searching with query: site:.no klarna shopify, start_index: 61
+2025-01-31 23:25:15,338 - INFO - Found 7 new URLs from current page
+2025-01-31 23:25:16,341 - INFO - Searching with query: site:.no klarna shopify, start_index: 71
+2025-01-31 23:25:16,604 - INFO - Found 8 new URLs from current page
+2025-01-31 23:25:17,608 - INFO - Searching with query: site:.no klarna shopify, start_index: 81
+2025-01-31 23:25:17,810 - INFO - No more results for query: site:.no klarna shopify
+2025-01-31 23:25:17,909 - ERROR - Error verifying store https://chosen.no/en/products/soft-blue-caps: Cannot connect to host chosen.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:17,913 - ERROR - Error verifying store https://balion.no/en/collections/irreplaceable-sculpting-tights: Cannot connect to host balion.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:17,913 - ERROR - Error verifying store https://eroma.no/en/products/passion: Cannot connect to host eroma.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:17,914 - ERROR - Error verifying store https://balion.no/en/collections/essential-tights: Cannot connect to host balion.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:17,919 - ERROR - Error verifying store https://en.shopify.no/security/pci-compliant: Cannot connect to host en.shopify.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:17,932 - ERROR - Error verifying store https://streamlines.no/en/collections/men: Cannot connect to host streamlines.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:17,934 - ERROR - Error verifying store https://letsip.no/en/products/letsip-starter-pack: Cannot connect to host letsip.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:18,323 - ERROR - Error verifying store https://lddy.no/4cks: Cannot connect to host lddy.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:18,327 - ERROR - Error verifying store https://lddy.no/4ex4: Cannot connect to host lddy.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:18,327 - ERROR - Error verifying store https://lddy.no/6rr4: Cannot connect to host lddy.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:18,327 - INFO - Verified 0 stores from current chunk. Total verified: 0
+2025-01-31 23:25:19,421 - ERROR - Error verifying store https://iceme.no/en-us/products/kopp-tilstedevaerelse-kopi-kopi-kopi: Cannot connect to host iceme.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:19,427 - ERROR - Error verifying store https://shop.2l.no/products/nordheim-cikada-duo: Cannot connect to host shop.2l.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:19,428 - ERROR - Error verifying store https://www.raylee.no/collections/frontpage: Cannot connect to host www.raylee.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:19,437 - ERROR - Error verifying store https://www.2fastshop.no/products/copy-of-2fast-solbriller-02: Cannot connect to host www.2fastshop.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:19,439 - ERROR - Error verifying store https://sealight.no/products/power-supply-ex-100gm3-us-3ph-208v: Cannot connect to host sealight.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:19,448 - ERROR - Error verifying store https://romerikekaffebrenneri.no/en/products/delter-coffee-press: Cannot connect to host romerikekaffebrenneri.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:19,449 - ERROR - Error verifying store https://specula.no/en/collections/heyerdal: Cannot connect to host specula.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:19,455 - ERROR - Error verifying store https://heidal-ysteri.no/en/products/heidalsost-formost-750-gram: Cannot connect to host heidal-ysteri.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:19,478 - ERROR - Error verifying store https://sandanefjordsauna.no/en/products/drop-in-1-5t-hett-gott: Cannot connect to host sandanefjordsauna.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:19,478 - INFO - Verified 0 stores from current chunk. Total verified: 0
+2025-01-31 23:25:20,540 - ERROR - Error verifying store https://appsalon.no/en/products/webutvikling: Cannot connect to host appsalon.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:20,567 - ERROR - Error verifying store https://balkekaffe.no/en/products/chemex-cm-6a-classic-6-kopp: Cannot connect to host balkekaffe.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:20,574 - ERROR - Error verifying store https://embraknit.no/products/laura-english-version: Cannot connect to host embraknit.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:20,576 - ERROR - Error verifying store https://soulcake.no/products/holly-jolly-cupcakes-12pk: Cannot connect to host soulcake.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:20,586 - ERROR - Error verifying store https://www.hellolast.no/collections/accessories/socks: Cannot connect to host www.hellolast.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:20,587 - ERROR - Error verifying store https://silenceclothing.no/en/collections/frontpage: Cannot connect to host silenceclothing.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:20,596 - ERROR - Error verifying store https://kniiv.no/collections/seki: Cannot connect to host kniiv.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:20,598 - ERROR - Error verifying store https://b2b-uniktgarn.no/en/products/tynn-entradig-merinoull-100-merinoull-sw-365-m-5-pk: Cannot connect to host b2b-uniktgarn.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:20,599 - ERROR - Error verifying store https://maama.no/en/pages/return-policy: Cannot connect to host maama.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:20,601 - ERROR - Error verifying store https://bellamoda.no/en/products/bella-2-pk-harsloyfe-dusty-rosa: Cannot connect to host bellamoda.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:20,601 - INFO - Verified 0 stores from current chunk. Total verified: 0
+2025-01-31 23:25:21,663 - ERROR - Error verifying store https://en.shopify.no/blog/sell-products-social-media: Cannot connect to host en.shopify.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:21,680 - ERROR - Error verifying store https://shop.leksmotor.no/en/collections/vendors?q=snowfeet: Cannot connect to host shop.leksmotor.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:21,698 - ERROR - Error verifying store https://uglastore.no/en/products/reykjahlid-baby-wool-jumpsuit: Cannot connect to host uglastore.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:21,703 - ERROR - Error verifying store https://shop.makekit.no/en/products/micro-bit-v2-klassesett: Cannot connect to host shop.makekit.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:21,704 - ERROR - Error verifying store https://www.kgd.no/pages/life-etc: Cannot connect to host www.kgd.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:21,704 - ERROR - Error verifying store https://www.paperandtea.no/products/les-metrofolies-n-712: Cannot connect to host www.paperandtea.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:21,739 - ERROR - Error verifying store https://kfbstudio.no/en/blogs/journey/stress-free-knitting-goals-2025: Cannot connect to host kfbstudio.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
+2025-01-31 23:25:21,739 - ERROR - Error verifying store https://plakatshappa.no/en/products/hov1-jag-onskar-jag-brydde-mig-mer-album-plakat: Cannot connect to host plakatshappa.no:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')]
